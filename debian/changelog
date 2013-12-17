@@ -1,3 +1,9 @@
+libpath-tiny-perl (0.049-2) lucid; urgency=low
+
+  * Add dependency on File::Spec >= 3.4.
+
+ -- Nathaniel Nutter <nnutter@genome.wustl.edu>  Tue, 17 Dec 2013 16:54:25 -0600
+
 libpath-tiny-perl (0.049-1) unstable; urgency=low
 
   * Initial Release.
